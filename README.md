@@ -1,1 +1,2 @@
-"# rodrigogandra.github.io" 
+rodrigogandra.github.io
+Rodrigo Gandra - Personal portfolio
